@@ -1,0 +1,77 @@
+body
+{
+    background-image: url("fondo2.jpg");
+}
+
+.titulo1{
+    color: darkmagenta;
+    font-size: 2cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+.titulo2{
+    color: blueviolet;
+    font-size: 1,5cm;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center
+    
+}
+.imagen2{
+inline: block;
+margin: auto
+}
+.imagen{
+    width: 300px;
+    
+}
+li{
+    font-family: fantasy;
+    text-align: unset;
+}
+.btn-primary
+{
+    background-color: greenyellow;
+}
+
+.carousel
+{
+    width: 900px;
+    margin: 0 auto;
+}
+.biografía
+{
+    font-family: cursive;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 0.6cm;
+    text-align: center;
+}
+.textos{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 0.6cm;
+    text-align: center;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif
+}
+.textoinicial{
+    margin-left: 50px;
+    font-size: 0.8cm;
+    margin-right: 50px;
+    text-align: center;
+}
+.amazon{
+    width: 200px;
+    margin: auto
+}
+.epublibre{
+    width: 200px;
+
+}
+.peli{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 0.6cm;
+    text-align: center;
+    font-family:Brush Script MT, Brush Script Std, cursive
+}
